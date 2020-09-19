@@ -1,21 +1,25 @@
-[{
-    "id": 1,
-    "productName": "TV",
-    "productDesc": "Samsung Tv",
-    "rate": 15000.0,
-    "quantity": null
-},
 {
-    "id": 2,
-    "productName": "iPhone 11",
-    "productDesc": "Apple iPhone 11",
-    "rate": 45000.0,
-    "quantity": null
-},
-{
-    "id": 3,
-    "productName": "Oneplus Phone",
-    "productDesc": "Oneplus 8 ",
-    "rate": 30000.0,
-    "quantity": null
-}]
+  "products": [
+    {
+      "id": 1,
+      "productName": "TV",
+      "productDesc": "Samsung Tv",
+      "rate": 15000.0,
+      "quantity": null
+  },
+  {
+      "id": 2,
+      "productName": "iPhone 11",
+      "productDesc": "Apple iPhone 11",
+      "rate": 45000.0,
+      "quantity": null
+  },
+  {
+      "id": 3,
+      "productName": "Oneplus Phone",
+      "productDesc": "Oneplus 8 ",
+      "rate": 30000.0,
+      "quantity": null
+  }
+  ]
+}
